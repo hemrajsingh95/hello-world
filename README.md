@@ -1,2 +1,3 @@
 # hello-world
 this is my first time that i am using git
+i dont kow anything anbout git hub... i'm using it for the first time...
